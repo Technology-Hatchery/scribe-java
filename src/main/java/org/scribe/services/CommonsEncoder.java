@@ -1,6 +1,7 @@
 package org.scribe.services;
 
-import org.apache.commons.codec.binary.*;
+import org.apache.commons.codec.*;
+import org.apache.commons.codec.binary.Base64;
 import org.scribe.exceptions.*;
 
 import java.io.UnsupportedEncodingException;
