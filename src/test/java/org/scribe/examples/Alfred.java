@@ -19,6 +19,8 @@ public class Alfred {
         int MEETUP=3;
         int TUMBLR=4;
 
+        //testing this out
+
         PROTECTED_RESOURCE_URL[TWITTER] = "https://api.twitter.com/1.1/account/verify_credentials.json";
         PROTECTED_RESOURCE_URL[FACEBOOK] = "https://graph.facebook.com/me";
         PROTECTED_RESOURCE_URL[GOOGLE] = "https://docs.google.com/feeds/default/private/full/";
